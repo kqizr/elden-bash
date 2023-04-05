@@ -107,7 +107,7 @@ case $class in
 	mind=9
 	endurance=12
 	strength=16
-	dexerity=9
+	dexterity=9
 	intelligence=7
 	faith=8
 	arcane=11
@@ -223,7 +223,7 @@ esac
 
 sleep 2
 
-echo "You have chose the $type class. Level $level, Vigor $vigor, Mind $mind, Endurance $endurance, Strength $strength, Dexerity $dexeterity, Intelligence $intelligence, Faith $faith, Arcane $arcane."
+echo "You have chose the $type class. Level $level, Vigor $vigor, Mind $mind, Endurance $endurance, Strength $strength, Dexterity $dexeterity, Intelligence $intelligence, Faith $faith, Arcane $arcane."
 
 sleep 4
 
