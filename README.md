@@ -1,5 +1,5 @@
-# Elden Bash
-This is a demake of the hit game Elden Ring by From Software written only in Bash.
+# Elden Shell
+This is a demake of the hit game Elden Ring by From Software written only in Shell.
 
 This Game was originally created by NetworkChuck on Youtube. 
 
